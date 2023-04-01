@@ -1,0 +1,6 @@
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\TimeToFFT\bin\Release\TimeToFFT.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\TimeToFFT\bin\Release\TimeToFFT.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\TimeToFFT\obj\Release\TimeToFFT.csproj.CoreCompileInputs.cache
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\TimeToFFT\obj\Release\TimeToFFT.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\TimeToFFT\obj\Release\TimeToFFT.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\TimeToFFT\obj\Release\TimeToFFT.csprojAssemblyReference.cache

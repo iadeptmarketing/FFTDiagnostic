@@ -1,0 +1,60 @@
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\LicenseVerify.cer
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Machine Fault Finder.exe.config
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Machine Fault Finder.exe
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Bearings.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\FFT Interpretation.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\License.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\License.Windows.Controls.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\TimeToFFT.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\UFFReader.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\WAVReader.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\ConvertToFFT.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Bearings.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\TimeToFFT.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\UFFReader.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\UFFReader.dll.config
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\WAVReader.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.BearingControl.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.DataselectionForm.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.FileSelectionForm.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.Form1.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.frmActivation.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.InterpretOptions.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.Properties.Resources.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.Result.resources
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.GenerateResource.cache
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.CoreCompileInputs.cache
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.CopyComplete
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\Machine Fault Finder.exe
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\Machine Fault Finder.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Machine Fault Finder.pdb
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\LicenseVerify.cer
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Machine Fault Finder.exe.config
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Machine Fault Finder.exe
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\Machine Fault Finder.pdb
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\FFT Interpretation.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\License.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\License.Windows.Controls.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\TimeToFFT.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\UFFReader.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\WAVReader.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\ConvertToFFT.dll
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\TimeToFFT.pdb
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\UFFReader.pdb
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\UFFReader.dll.config
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\bin\Debug\WAVReader.pdb
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.BearingControl.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.DataselectionForm.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.FileSelectionForm.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.Form1.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.frmActivation.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.InterpretOptions.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.Properties.Resources.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.Result.resources
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.GenerateResource.cache
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\iAdpetFFTDiagnostic.csproj.CopyComplete
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\Machine Fault Finder.exe
+C:\Users\User\Desktop\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\iAdpetFFTDiagnostic\obj\Debug\Machine Fault Finder.pdb

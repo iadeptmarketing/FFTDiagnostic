@@ -1,0 +1,6 @@
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\Wav File Reader\WAVReader\obj\Debug\WAVReader.csprojAssemblyReference.cache
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\Wav File Reader\WAVReader\obj\Debug\WAVReader.csproj.CoreCompileInputs.cache
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\Wav File Reader\WAVReader\bin\Debug\WAVReader.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\Wav File Reader\WAVReader\bin\Debug\WAVReader.pdb
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\Wav File Reader\WAVReader\obj\Debug\WAVReader.dll
+C:\Users\cjaina7\Desktop\Amit\iadept\iAdpetFFTDiagnostic\Wav File Reader\WAVReader\obj\Debug\WAVReader.pdb
